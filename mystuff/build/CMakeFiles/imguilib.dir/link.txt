@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libimguilib.a CMakeFiles/imguilib.dir/imgui/imgui_demo.cpp.obj CMakeFiles/imguilib.dir/imgui/imgui_draw.cpp.obj CMakeFiles/imguilib.dir/imgui/imgui_impl_win32.cpp.obj CMakeFiles/imguilib.dir/imgui/imgui_tables.cpp.obj CMakeFiles/imguilib.dir/imgui/imgui_widgets.cpp.obj CMakeFiles/imguilib.dir/imgui/imgui.cpp.obj CMakeFiles/imguilib.dir/imgui/imgui_impl_dx11.cpp.obj CMakeFiles/imguilib.dir/GUI.cpp.obj CMakeFiles/imguilib.dir/imgui/imgui_impl_dx9.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libimguilib.a

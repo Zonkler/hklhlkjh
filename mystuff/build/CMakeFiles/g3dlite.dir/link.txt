@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libg3dlite.a CMakeFiles/g3dlite.dir/included/DllMain.cpp.obj CMakeFiles/g3dlite.dir/included/MoveMap.cpp.obj CMakeFiles/g3dlite.dir/included/Navigation.cpp.obj CMakeFiles/g3dlite.dir/included/PathFinder.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libg3dlite.a

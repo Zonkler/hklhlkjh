@@ -1,0 +1,4 @@
+C:/Users/xrhstos/Desktop/wowbot/build/CMakeFiles/imguilib.dir
+C:/Users/xrhstos/Desktop/wowbot/build/CMakeFiles/example.dir
+C:/Users/xrhstos/Desktop/wowbot/build/CMakeFiles/edit_cache.dir
+C:/Users/xrhstos/Desktop/wowbot/build/CMakeFiles/rebuild_cache.dir
